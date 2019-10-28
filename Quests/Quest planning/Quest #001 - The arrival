@@ -1,0 +1,45 @@
+Quest #001 - The Arrival
+Questtype: Main quest
+Accessable to: everyone
+Language for planning file: German (de-De)
+
+==========[ The Arrival ]==========
+Der Spieler betritt die Welt von Canreal das erste mal. Der Spawn wird in einer normal-großen Stadt auf einem Handelsschiff im Hafen sein. Der Spieler hat seine
+Erinnerungen an seine Vergangenheit verloren. Er weiß nicht, was passiert ist, oder woher er kommt. Das einzige, dass er aus seiner Vergangenheit noch weiß
+ist sein Name. Vor dem Spieler wird ein NPC stehen, der ein Kapitän ist (Name für den Kapitän fehlt noch). Der Dialog mit dem Spieler wird automatisch gestartet und
+der Spieler wird während des Dialoges eingefroren und Bewegungsunfähig sein, um zu garantieren, dass die Startquest auch definitiv gestartet wird und der Spieler in das
+Tutorial auf Canreal einfeführt wird.
+
+>>>> Dialog <<<<
+[Kapitän]: "Endlich bist du wach! Ich habe mir schon Sorgen gemacht."
+
+[Spieler]: "Wer bist du? Wo bin ich?"
+
+[Kapitän]: "Ich...Ich weiß es nicht genau. Wir haben dich halbtot im Meer treiben sehen und dich nur durch Zufall entdeckt. Wir hätten dich fast übersehen. Ich bin der
+Kapitän (Name...) dieses Schiffes. Du befindest dich auf einem Handelsschiff. Wir hatten eine sehr lange Reise hinter uns und befinden uns nun nach Monaten auf hoher
+See im Hafen der wunderbaren Stadt >Vanor< auf dem Kontinent Canreal! Wie heißt du eigentlich mein Junge?"
+
+[Spieler]: "Mein Name ist (...Spielername...). Mehr weiß ich nicht. Ich weiß nicht was passiert ist, aber ich danke euch, dass ihr mich gerettet habt.
+Ohne euch wäre ich wahrscheinlich tot."
+
+[Kapitän]: "Das ist merkwürdig. Aber deine Vergangenheit ist hier nicht relevant. Du kannst hier ein neues Leben starten. Aber wenn es dich interessiert kannst du
+natürlich auch versuchen herauszufinnden wer du bist und was passiert ist. Als erstes benötigst du aber ein bisschen Geld. Ich kann dir ein paar einfache Jobs
+anbieten. Auf diese Weise kannst du mir und meiner Besatzung helfen und ich kann dich bezahlen, sodass du auf eigenen Beinen zurechtkommen kannst."
+
+[Spieler]: "Gerne! Ich bin dir und deiner Besatzung etwas schuldig, wenn es stimmt, was du gesagt hast. Was soll ich für dich tun?"
+
+[Kapitän]: "Dein erster Job ist ganz einfach! Durch unsere Lange Reise haben wir sehr viele Waren auf unserem Schiff, die wir hier verkaufen möchten. Ich habe außerdem
+eine sehr wichtige Lieferung für eines der Ratsmitglieder dieser Stadt! Es ist ein Schwert von sehr hohem Wert. Du darfst es nicht verlieren und musst es dem Stadtrat
+>Alduir< überreichen. Er wird dir eine Bezahlung für das Schwert geben. Die Hälfte der Bezahlung kannst du für dich behalten. Die andere Hälfte musst du
+mir zurückbringen."
+
+[Spieler]: "Das klingt wirklich sehr einfach und großzügig! Ich danke dir! Wo finde ich >Alduir<?"
+
+[Kapitän]: "Folge einfach der breiten Hauptstraße bis du fast das Schloss erreichst. Vor dem Schloss findest du auf der rechten Seite das Gebäude von Stadtrat
+>Alduir<. Du wirst es schon erkennen, wenn du es siehst! Und nun mach dich schon auf den Weg! >Alduir< wartet
+schon auf seine Lieferung. Es hat sich bestimmt schon herumgesprochen, dass wir angekommen sind."
+
+
+>>>> Quest #001 wird gestartet <<<<
+- Logbuch des Spielers wird aktualisiert.
+- Kompass zeigt in die Richtung des Questziels.

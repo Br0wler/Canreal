@@ -1,3 +1,4 @@
 # Canreal
+Canreal is a Hytale MMORPG Server, currently in development.
 
-Das ist ein Test!
+We're focussing on the development of the story and quests at the moment, until Hytale itself get's released.
