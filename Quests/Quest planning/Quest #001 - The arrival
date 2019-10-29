@@ -1,4 +1,4 @@
-Quest #001 - The Arrival
+Quest #001 - The Arrival // Die Ankunft
 Questtype: Main quest
 Accessable to: everyone
 Language for planning file: German (de-De)
@@ -16,19 +16,19 @@ Tutorial auf Canreal einfeführt wird.
 [Spieler]: "Wer bist du? Wo bin ich?"
 
 [Kapitän]: "Ich...Ich weiß es nicht genau. Wir haben dich halbtot im Meer treiben sehen und dich nur durch Zufall entdeckt. Wir hätten dich fast übersehen. Ich bin der
-Kapitän (Name...) dieses Schiffes. Du befindest dich auf einem Handelsschiff. Wir hatten eine sehr lange Reise hinter uns und befinden uns nun nach Monaten auf hoher
+Kapitän dieses Schiffes. Du befindest dich auf einem Handelsschiff. Wir hatten eine sehr lange Reise hinter uns und befinden uns nun nach Monaten auf hoher
 See im Hafen der wunderbaren Stadt >Vanor< auf dem Kontinent Canreal! Wie heißt du eigentlich mein Junge?"
 
-[Spieler]: "Mein Name ist (...Spielername...). Mehr weiß ich nicht. Ich weiß nicht was passiert ist, aber ich danke euch, dass ihr mich gerettet habt.
+[Spieler]: "Mein Name ist (...Spielername...). Mehr weiß ich nicht. Ich weiß nicht was passiert ist, aber ich danke euch dafür, dass ihr mich gerettet habt.
 Ohne euch wäre ich wahrscheinlich tot."
 
-[Kapitän]: "Das ist merkwürdig. Aber deine Vergangenheit ist hier nicht relevant. Du kannst hier ein neues Leben starten. Aber wenn es dich interessiert kannst du
-natürlich auch versuchen herauszufinnden wer du bist und was passiert ist. Als erstes benötigst du aber ein bisschen Geld. Ich kann dir ein paar einfache Jobs
+[Kapitän]: "Das ist merkwürdig. Aber deine Vergangenheit ist hier nicht relevant. Du kannst hier ein neues Leben starten. Wenn es dich interessiert kannst du
+natürlich auch versuchen herauszufinden wer du bist und was passiert ist. Als Erstes benötigst du aber ein bisschen Geld. Ich kann dir ein paar einfache Jobs
 anbieten. Auf diese Weise kannst du mir und meiner Besatzung helfen und ich kann dich bezahlen, sodass du auf eigenen Beinen zurechtkommen kannst."
 
 [Spieler]: "Gerne! Ich bin dir und deiner Besatzung etwas schuldig, wenn es stimmt, was du gesagt hast. Was soll ich für dich tun?"
 
-[Kapitän]: "Dein erster Job ist ganz einfach! Durch unsere Lange Reise haben wir sehr viele Waren auf unserem Schiff, die wir hier verkaufen möchten. Ich habe außerdem
+[Kapitän]: "Dein erster Job ist ganz einfach! Durch unsere lange Reise haben wir sehr viele Waren auf unserem Schiff, die wir hier verkaufen möchten. Ich habe außerdem
 eine sehr wichtige Lieferung für eines der Ratsmitglieder dieser Stadt! Es ist ein Schwert von sehr hohem Wert. Du darfst es nicht verlieren und musst es dem Stadtrat
 >Alduir< überreichen. Er wird dir eine Bezahlung für das Schwert geben. Die Hälfte der Bezahlung kannst du für dich behalten. Die andere Hälfte musst du
 mir zurückbringen."
